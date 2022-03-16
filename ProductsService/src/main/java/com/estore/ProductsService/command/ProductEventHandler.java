@@ -1,4 +1,4 @@
-package com.estore.ProductsService.query;
+package com.estore.ProductsService.command;
 
 import org.axonframework.config.ProcessingGroup;
 import org.axonframework.eventhandling.EventHandler;
